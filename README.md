@@ -2,7 +2,7 @@
 # 💫 About Me:
 
 [![](https://visitcount.itsvg.in/api?id=shehandilusanka97&icon=1&color=0)](https://visitcount.itsvg.in)
-<br>- 🔭 I’m currently working on Cyberako International<br><br>- 🌱 I’m currently learning Spring boot, MEAN Stack, Flutter, React, Next Js<br><br>- 💬 Ask me about React, React Native, Java, Node Js, Spring boot<br><br>- 📫 How to reach me kshehandilusanka@gmail.com<br>
+<br>- 🔭 I’m currently working on Cyberako International<br><br>- 🌱 I’m currently learning Spring boot, MEAN Stack, Flutter, React, Next Js<br><br>- 💬 Ask me about React, React Native, Java, Node Js, Spring boot<br><br>- 📫 How to reach me kshehandilusanka97@gmail.com<br>
 
 ![animation_300_l7wdyye0](https://user-images.githubusercontent.com/72766858/189501421-39a03ec8-943b-4984-bdc3-bdaeeab6d359.gif)<br>
 

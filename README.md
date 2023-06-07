@@ -18,7 +18,9 @@
 </p>
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/https://bmc.link/kshehandill"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://bmc.link/kshehandill" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/https://bmc.link/kshehandill"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://bmc.link/kshehandill" /></a></p><br>
+<br>
+
 <img align="left" width="47%"  src="https://github-readme-stats.vercel.app/api?username=shehandilusanka97&show_icons=true&theme=cobalt&title_color=caf0f8&icon_color=caf0f8&text_color=00b4d8"/>
 
 <img align="right"  width="47%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=shehandilusanka97&layout=compact&theme=cobalt&title_color=caf0f8&text_color=00b4d8"/>

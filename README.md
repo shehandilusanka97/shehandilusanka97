@@ -2,5 +2,5 @@
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=shehandilusanka97&show_icons=true&theme=radical"/>
 
-<img align="left"  width="47%" src="[https://github-readme-stats.vercel.app/api?username=shehandilusanka97&show_icons=true&theme=radical](https://github-readme-stats.vercel.app/api/top-langs/?username=shehandilusanka97&layout=donut))"/>
+<img align="left"  width="47%" src="(https://github-readme-stats.vercel.app/api/top-langs/?username=shehandilusanka97&layout=donut))"/>
 
